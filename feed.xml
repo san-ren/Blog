@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>page1</title>
+    <title>试运行</title>
     <link href="https://san-ren.github.io/feed.xml" rel="self" />
     <link href="https://san-ren.github.io" />
     <updated>2024-03-22T18:53:20+08:00</updated>
